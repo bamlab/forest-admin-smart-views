@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://www.forestadmin.com/public/img/icons/smart/smart-views.svg">
+  <a href="https://www.forestadmin.com/" target="blank"><img src="https://www.forestadmin.com/public/img/logo-black.svg" width="320" alt="Forest Logo" /></a>
+  <img src="https://www.forestadmin.com/public/img/icons/smart/smart-views.svg">
 </p>
 
 # forest-admin-smart-views

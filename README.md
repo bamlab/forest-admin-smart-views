@@ -9,6 +9,9 @@ Forest admin is a wonderful product allowing you to create your administration i
 
 Forest teams provided us with a few example, but when you have to go further it is sometimes a little bit hard. Therefore I created this repository we can use to share the wonderful smart views we've created :)
 
+Whenever you're working with a smart view, you need an handlebar template and a javascript file using Ember, all the smart views we will present here will therefore present these two files.
+
 ## Calendar views
 
 - [A calendar view going a little bit further than forest admin example](./calendar-view)
+  ![A calendar view](./calendar-view.gif)

@@ -14,4 +14,4 @@ Whenever you're working with a smart view, you need an handlebar template and a 
 ## Calendar views
 
 - [A calendar view going a little bit further than forest admin example](./calendar-view)
-  ![A calendar view](./calendar-view.gif)
+  ![A calendar view](./calendar-view/calendar-view.gif)
